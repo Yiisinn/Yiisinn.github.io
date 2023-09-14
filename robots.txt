@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: Yiisinn.github.io/sitemap.xml
