@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
+      <url>
+            <loc>/archieve/</loc>
+            <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -13,9 +18,38 @@
     
       <url>
             <loc>/</loc>
+            <lastmod>2023-09-15T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>/archieve/prob/exercise/001/</loc>
+            <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/archieve/prob/</loc>
+            <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     
   
 </urlset>
